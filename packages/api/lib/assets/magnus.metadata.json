@@ -1,0 +1,23 @@
+{
+  "query": [
+    [
+      "token",
+      "TokenGraphql",
+      "",
+      "token",
+      [
+        {
+          "name": "input",
+          "type": "TokenInput!",
+          "index": 0,
+          "decorator": []
+        }
+      ],
+      {
+        "type": "TokenResult",
+        "isEntity": false,
+        "typeArguments": []
+      }
+    ]
+  ]
+}

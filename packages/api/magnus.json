@@ -1,0 +1,4 @@
+{
+    "inputs": [ "lib/**/*.ts" ],
+    "assets": "lib/assets"
+}
