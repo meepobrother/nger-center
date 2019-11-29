@@ -25,5 +25,8 @@
   },
   "bugs": {
     "url": "https://github.com/meepobrother/nger-center/issues"
+  },
+  "dependencies": {
+    "@nestjs/graphql": "^6.5.3"
   }
 }
